@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitkr2000.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on software companies.
 - 📫 How to reach me https://www.linkedin.com/in/sumit-kumar-rai-b59290233/.
 
