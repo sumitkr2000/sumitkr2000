@@ -1,8 +1,10 @@
+<div align="center">
 - 👋 Hi, I’m @sumitkr2000.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate with software companies.
 - 📫 How to reach me https://www.linkedin.com/in/sumit-kumar-rai-b59290233/.
+</div>
 
 <!---
 sumitkr2000/sumitkr2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
