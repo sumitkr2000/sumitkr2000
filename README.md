@@ -44,5 +44,3 @@
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&" alt="sumitkr2000" /></p>
-
-<br />
