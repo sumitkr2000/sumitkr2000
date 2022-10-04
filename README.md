@@ -31,7 +31,7 @@
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkr2000&show_icons=true&locale=en&layout=compact" alt="sumitkr2000" width="45%"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkr2000&show_icons=true&locale=en&layout=compact" alt="sumitkr2000" width="495px" height="195px"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkr2000&show_icons=true&locale=en" alt="sumitkr2000" /></p>
 
