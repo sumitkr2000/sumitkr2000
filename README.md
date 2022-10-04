@@ -35,4 +35,4 @@
 
 <hr>
 
-<p align="center" widht="100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkr2000&show_icons=true&locale=en&layout=compact" alt="sumitkr2000" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkr2000&show_icons=true&locale=en&layout=compact" alt="sumitkr2000" width="100%"/></p>
