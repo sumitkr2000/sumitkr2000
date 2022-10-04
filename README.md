@@ -3,10 +3,6 @@
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkr2000" alt="sumitkr2000" /></a> </p>
-
-<br />
-
 - 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://sumitkrportfolio.netlify.app/](https://sumitkrportfolio.netlify.app/)
