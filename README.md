@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate web developer from India.</h3>
-<img align="right" img src="https://raw.githubusercontent.com/sumitkr2000/sumitkr2000/master/200w.webp" width="210px">
+
 <hr>
 <a href="https://github.com/sumitkr2000/github-readme-activity-graph"><img alt="Sumit's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=sumitkr2000&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
