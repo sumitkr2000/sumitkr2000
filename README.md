@@ -31,8 +31,10 @@
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkr2000&show_icons=true&locale=en&layout=compact" alt="sumitkr2000" width="49%"/></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkr2000&show_icons=true&locale=en" alt="sumitkr2000" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitkr2000&show_icons=true&locale=en" alt="sumitkr2000" /></p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&" alt="sumitkr2000" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&" alt="sumitkr2000" /></p>
+<hr>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitkr2000&show_icons=true&locale=en&layout=compact" alt="sumitkr2000"/></p>
