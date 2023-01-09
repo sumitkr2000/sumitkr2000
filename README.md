@@ -3,14 +3,12 @@
 
 <hr>
 
-<a href="https://quine.sh/profile/sumitkr2000"><img src="https://stats.quine.sh/sumitkr2000/github" alt="Sumit Kumar's GitHub stats" width="840px"></a>
+[![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
 
 <hr>
 
-[![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
+<a href="https://quine.sh/profile/sumitkr2000"><img src="https://stats.quine.sh/sumitkr2000/github" alt="Sumit Kumar's GitHub stats" width="840px"></a>
 
-
-<a href="https://github.com/sumitkr2000/github-readme-activity-graph"><img alt="Sumit's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=sumitkr2000&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
 
 - 🌱 I’m currently learning **web development**
