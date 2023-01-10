@@ -29,5 +29,5 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sumitkr2000" />
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sumitkr2000" />
+<img align="center" width = 50% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sumitkr2000" />
 </p>
