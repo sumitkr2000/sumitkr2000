@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Machine Learning.<br>👨‍💻 Wanna see my portfolio? https://sumitkrportfolio.netlify.app/<br>💬 Ask me about Data Structure and Algorithms, HTML, CSS, JavaScript<br>📫 How to reach me sumitkrkanti@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1qkVY_8LIxNA4Mp-5UqV1fc2lr3BDfWJo/view?usp=sharing
 
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">🌐 Connect with me:</h1>
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/sumit-kumar-rai-b59290233/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-rai-b59290233/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18363785/sumit-kumar-rai)
 
