@@ -24,7 +24,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&theme=dark&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&theme=dark&hide_border=false />
 <p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
