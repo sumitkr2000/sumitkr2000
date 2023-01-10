@@ -33,5 +33,5 @@
 
 <h1 align="center"> ✍ Quote: </h1>
 <p align="center">
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sumitkr2000" />
+<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sumitkr2000" /> <br>
 <p align="center">
