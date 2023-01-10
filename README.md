@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sumitkrkanti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tM6roSHLe6OMU-QseV4VxxfPvAdPpPxf/view?usp=sharing](https://drive.google.com/file/d/1qB23oOCLATo3fWldDCUKkxl-xsRsCGKA/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1qkVY_8LIxNA4Mp-5UqV1fc2lr3BDfWJo/view?usp=sharing
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
