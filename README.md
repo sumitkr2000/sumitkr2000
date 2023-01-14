@@ -25,11 +25,11 @@
 <hr>
 
 <h1 align="center"> 📊 GitHub Stats: </h1>
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord_dark) 
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkr2000&theme=nord_dark) 
    
   
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itskhushis1&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itskhushis1&theme=nord_dark)
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itskhushis1&theme=nord) 
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitkr2000&theme=nord_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitkr2000&theme=nord_dark)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkr2000&theme=nord) 
 
 <h1 align="center"> ✍ Quote: </h1>
 
