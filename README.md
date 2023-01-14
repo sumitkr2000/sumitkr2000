@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 [![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
 
 <hr>
