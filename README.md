@@ -28,12 +28,9 @@
 <h1 align="center"> 📊 GitHub Stats: </h1>
 
 <p align="center">
-<img align="center" width=48% src="https://github-readme-stats.vercel.app/api?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="sumitkr2000" />
-<img align="center" width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&theme=dark&hide_border=false" alt="sumitkr2000" />
-<p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sumitkr2000" />
+![](https://github-readme-stats.vercel.app/api?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumitkr2000&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkr2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 <h1 align="center"> ✍ Quote: </h1>
