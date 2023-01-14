@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/sumit-kumar-rai-b59290233/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-rai-b59290233/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18363785/sumit-kumar-rai)
 <a href="https://www.hackerrank.com/sumitkrkanti" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img alt="Hackerrank"></a>
-<a href="https://leetcode.com/sumitkrrai/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img height="21" alt="Leetcode"></a>
+<a href="https://leetcode.com/sumitkrrai/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img alt="Leetcode"></a>
 <a href="https://www.codechef.com/users/sumit1923" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" img alt="Codechef" style="margin-bottom: 2px;" /></a> 
 <a href="https://auth.geeksforgeeks.org/user/sumitkrkanti/practice" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" img alt="GeeksforGeeks" style="margin-bottom: 2px;" /></a>    
 </div>
