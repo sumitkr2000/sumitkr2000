@@ -1,6 +1,4 @@
-<div align="center">
-  [![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
-</div>
+[![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
 <hr>
 
 <h1 align="center"> 👦 About Me </h1>
@@ -27,11 +25,11 @@
 <hr>
 
 <h1 align="center"> 📊 GitHub Stats: </h1>
-
+<div align="center">
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkr2000&theme=nord_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitkr2000&theme=nord_dark)![](https://github-profile-summary- cards.vercel.app/api/cards/most-commit-language?username=itskhushis1&theme=nord_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkr2000&theme=nord) 
-
+</div>
 <h1 align="center"> ✍ Quote: </h1>
 
 <p align="center">
