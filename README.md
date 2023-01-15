@@ -1,6 +1,6 @@
 ### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sumit+Kumar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sumit+Kumar+Rai)](https://git.io/typing-svg)
 
 <hr>
 
