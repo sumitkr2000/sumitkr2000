@@ -4,8 +4,6 @@
 
 [![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
 
-<nft-card contractAddress="0xaf7935ede17c2ce8c9f55fce40c4e8db8af6755f" tokenId="108"></nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 <hr>
 
 <h1 align="center"> 👦 About Me </h1>
