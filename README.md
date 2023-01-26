@@ -8,7 +8,7 @@
 
 <hr>
 
-<h1 align="center"> 👦 About Me </h1>
+<h1 align="center"><img height="50px" width="50px"src="Gifs/star.gif"> About Me <img height="50px" width="50px"src="Gifs/star.gif"></h1>
 
 🌱 I’m currently learning Machine Learning.<br>👨‍💻 Wanna see my portfolio? https://sumitkrportfolio.netlify.app/<br>💬 Ask me about Data Structure and Algorithms, HTML, CSS, JavaScript<br>📫 How to reach me sumitkrkanti@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1qkVY_8LIxNA4Mp-5UqV1fc2lr3BDfWJo/view?usp=sharing
 
