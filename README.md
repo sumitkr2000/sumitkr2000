@@ -1,4 +1,4 @@
-### Hey there <img height="50px" width="50px"src="Gifs/Hi.gif">
+<h1> Hey there </h1> <img height="50px" width="50px"src="Gifs/Hi.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sumit+Kumar.)](https://git.io/typing-svg)
 
