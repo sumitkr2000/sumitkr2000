@@ -1,6 +1,6 @@
 <h1 align="center"><img height="50px" width="50px"src="Gifs/Hi.gif"><b>Hello World</b>{<img align="center" height="50px" width="50px"src="Gifs/Background.gif">}</h1>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sumit+Kumar." />
+<h3 align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sumit+Kumar." /></h3>
 
 <h3><img align="center" height="50px" width="55px" src="Gifs/gif3.gif"/>I am here to Learn & Contribute</h3> <br>
 
