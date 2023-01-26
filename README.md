@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Sumit+Kumar.)](https://git.io/typing-svg)
 
+<h3 align="center"><img align="center" height="50px" width="55px" src="Gifs/gif3.gif"/>I am here to Learn & Contribute</h3>
+
 [![@sumit1999's Holopin board](https://holopin.io/api/user/board?user=sumit1999)](https://holopin.io/@sumit1999)
 
 <hr>
