@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumitkr2000&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
    
-<h1 align="center"> ✍ Quote: </h1>
+<h1 align="center"><img height="50px" width="50px"src="Gifs/quote.gif"> Quote: </h1>
 
 <p align="center">
 <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="sumitkr2000" />
