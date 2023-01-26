@@ -31,7 +31,7 @@
 
 <hr>
 
-<h1 align="center"><img height="50px" width="50px"src="eye.gif"> GitHub Stats: </h1>
+<h1 align="center"><img height="50px" width="50px"src="Gifs/eye.gif"> GitHub Stats: </h1>
 
 <div align="center">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitkr2000&theme=nord_dark" /> 
