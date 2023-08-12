@@ -39,10 +39,7 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitkr2000&theme=nord_dark" />
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitkr2000&theme=nord_dark" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sumitkr2000&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<div align="center">
-[![sumitkr2000's GitHub | Stats](https://stats.quine.sh/sumitkr2000/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sumitkr2000)
+<img align="center" src="https://stats.quine.sh/sumitkr2000/github?theme=dark" />
 </div>
    
 <h1 align="center"><img height="50px" width="50px"src="Gifs/quote.gif"> Quote: </h1>
