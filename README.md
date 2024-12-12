@@ -10,7 +10,7 @@
 
 <h1 align="center"><img height="50px" width="50px"src="Gifs/star.gif"> About Me <img height="50px" width="50px"src="Gifs/star.gif"></h1>
 
-🌱 I’m currently learning **Machine Learning.**<br>👨‍💻 Wanna see my **Portfolio?** https://sumitkumarrai.co/<br>💬 Ask me about **Data Structure and Algorithms, HTML, CSS, JavaScript.**<br>📫 How to reach me? sumitkrkanti@gmail.com<br>📄 Know about my **experiences** <a  href="https://drive.google.com/file/d/1DgUyW4-cmDfIG4SsZDCTdhv5tDe-UAo6/view?usp=sharing">Resume</a>
+🌱 I’m currently learning **Machine Learning.**<br>👨‍💻 Wanna see my **Portfolio?** https://sumitkumarrai.co/<br>💬 Ask me about **Data Structure and Algorithms, HTML, CSS, JavaScript.**<br>📫 How to reach me? sumitkrkanti@gmail.com<br>📄 Know about my **experiences** <a  href="https://drive.google.com/file/d/1arMjRmr1comX0FlPK8RR7QR3K1Rkt19o/view?usp=sharing">Resume</a>
 
 <hr>
 
